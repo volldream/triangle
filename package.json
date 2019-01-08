@@ -1,0 +1,17 @@
+{
+  "name": "triangleChallenge",
+  "version": "1.0.0",
+  "description": "This program is a challenge test for Tradeshift",
+  "repository": "https://github.com/volldream/triangle",
+  "license": "ISC",
+  "main": "test.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "mocha": "*"
+  }
+}
